@@ -1,0 +1,6 @@
+"test THUMB Debug/main.o"
+"test THUMB Debug/thumb_crt0.o"
+"test THUMB Debug/STM32_Startup.o"
+"C:/Program Files/Rowley Associates Limited/CrossWorks for ARM 4.10/lib/libm_v6m_t_le_eabi.a"
+"C:/Program Files/Rowley Associates Limited/CrossWorks for ARM 4.10/lib/libc_v6m_t_le_eabi.a"
+"C:/Program Files/Rowley Associates Limited/CrossWorks for ARM 4.10/lib/libdebugio_v6m_t_le_eabi.a"
